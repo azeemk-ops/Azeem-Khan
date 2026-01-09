@@ -1,0 +1,5 @@
+{
+  "name": "ParchiPay – Digital Committee App",
+  "description": "A web application to digitize the traditional monthly committee/chit fund system. It allows for creating committees, managing members, tracking payments, and conducting transparent, random digital draws to select a monthly winner.",
+  "requestFramePermissions": []
+}
